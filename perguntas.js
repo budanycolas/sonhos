@@ -1,10 +1,10 @@
-criaCartao('Segunda Guerra Mundial'
+criaCartao('Segunda Guerra Mundial',
     
     
     'Quando começou e terminou a Segunda Guerra Mundial?', 'A Segunda Guerra Mundial começou em 1939 e terminou em 1945.')
 
 
-criaCartao('Segunda Guerra Mundial'
+criaCartao('Segunda Guerra Mundial',
     
     
     
@@ -12,21 +12,21 @@ criaCartao('Segunda Guerra Mundial'
 
 
 
-criaCartao('Segunda Guerra Mundial'
+criaCartao('Segunda Guerra Mundial',
     
     
     'O que foi o Holocausto?', 'O Holocausto foi o genocídio sistemático de seis milhões de judeus pelos nazistas durante a Segunda Guerra Mundial.)
 
 
 
-criaCartao('Segunda Guerra Mundial'
+criaCartao('Segunda Guerra Mundial',
     
     
     'Quem foram os principais líderes dos Aliados?', 'Winston Churchill (Reino Unido), Franklin D. Roosevelt (EUA), Josef Stalin (URSS) e Charles de Gaulle (França).)
 
 
 
-criaCartao('Segunda Guerra Mundial'
+criaCartao('Segunda Guerra Mundial',
     
     
     
@@ -34,7 +34,7 @@ criaCartao('Segunda Guerra Mundial'
 
 
 
-criaCartao('Segunda Guerra Mundial'
+criaCartao('Segunda Guerra Mundial',
     
     
     
@@ -42,7 +42,7 @@ criaCartao('Segunda Guerra Mundial'
 
 
 
-criaCartao('Segunda Guerra Mundial'
+criaCartao('Segunda Guerra Mundial',
     
     
     
@@ -51,21 +51,21 @@ criaCartao('Segunda Guerra Mundial'
 
 
 
-criaCartao('Segunda Guerra Mundial'
+criaCartao('Segunda Guerra Mundial',
     
     
     'O que marcou o fim da guerra na Europa?', 'A rendição incondicional da Alemanha em 8 de maio de 1945, conhecido como o Dia da Vitória na Europa (VE Day).')
 
 
 
-criaCartao('Segunda Guerra Mundial'
+criaCartao('Segunda Guerra Mundial',
     
     
     'Quais cidades foram atingidas por bombas atômicas?', 'Hiroshima e Nagasaki, no Japão, foram atingidas por bombas atômicas em agosto de 1945.)
 
 
 
-criaCartao('Segunda Guerra Mundial'
+criaCartao('Segunda Guerra Mundial',
     
     
     
@@ -73,14 +73,14 @@ criaCartao('Segunda Guerra Mundial'
 
 
 
-criaCartao('Guerra Fria'
+criaCartao('Guerra Fria',
     
     
     'O que foi a Guerra Fria?', 'A Guerra Fria foi uma disputa política, ideológica e militar entre os Estados Unidos e a União Soviética, que durou de 1947 a 1991.')
 
 
 
-criaCartao('Guerra Fria'
+criaCartao('Guerra Fria',
     
     
     'O que foi o Plano Marshall?', 'O Plano Marshall foi um programa dos EUA para ajudar na reconstrução econômica da Europa Ocidental após a Segunda Guerra Mundial.')
@@ -88,7 +88,7 @@ criaCartao('Guerra Fria'
 
 
 
-criaCartao('Guerra Fria'
+criaCartao('Guerra Fria',
     
     
     
@@ -97,7 +97,7 @@ criaCartao('Guerra Fria'
 
 
 
-criaCartao('Guerra Fria'
+criaCartao('Guerra Fria',,
     
     
     'O que foi o Pacto de Varsóvia?', 'O Pacto de Varsóvia foi uma aliança militar liderada pela União Soviética, formada em 1955 como resposta à OTAN.')
@@ -105,7 +105,7 @@ criaCartao('Guerra Fria'
 
 
 
-criaCartao('Guerra Fria'
+criaCartao('Guerra Fria',
     
     
     
@@ -114,7 +114,7 @@ criaCartao('Guerra Fria'
 
 
 
-criaCartao('Guerra Fria'
+criaCartao('Guerra Fria',
     
     
     
@@ -123,21 +123,21 @@ criaCartao('Guerra Fria'
 
 
 
-criaCartao('Guerra Fria'
+criaCartao('Guerra Fria',
     
     
     'Qual foi o significado da Doutrina Truman?', 'A Doutrina Truman, anunciada em 1947, comprometeu os EUA a apoiar países ameaçados pelo comunismo.')
 
 
 
-criaCartao('Guerra Fria'
+criaCartao('Guerra Fria',
     
     
     'Quando e como terminou a Guerra Fria?', 'A Guerra Fria terminou em 1991, com a dissolução da União Soviética e o colapso dos regimes comunistas no Leste Europeu.)
 
 
 
-criaCartao('Guerra Fria'
+criaCartao('Guerra Fria',
     
     
     'O que foi a Perestroika?', 'A Perestroika foi uma série de reformas políticas e econômicas introduzidas por Mikhail Gorbachev na União Soviética na década de 1980.)
