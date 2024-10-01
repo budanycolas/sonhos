@@ -15,14 +15,15 @@ criaCartao('Segunda Guerra Mundial',
 criaCartao('Segunda Guerra Mundial',
     
     
-    'O que foi o Holocausto?', 'O Holocausto foi o genocídio sistemático de seis milhões de judeus pelos nazistas durante a Segunda Guerra Mundial.)
+    'O que foi o Holocausto?', 
+    'O Holocausto foi o genocídio sistemático de seis milhões de judeus pelos nazistas durante a Segunda Guerra Mundial.')
 
 
 
 criaCartao('Segunda Guerra Mundial',
     
     
-    'Quem foram os principais líderes dos Aliados?', 'Winston Churchill (Reino Unido), Franklin D. Roosevelt (EUA), Josef Stalin (URSS) e Charles de Gaulle (França).)
+    'Quem foram os principais líderes dos Aliados?', 'Winston Churchill (Reino Unido), Franklin D. Roosevelt (EUA), Josef Stalin (URSS) e Charles de Gaulle (França).')
 
 
 
@@ -61,7 +62,7 @@ criaCartao('Segunda Guerra Mundial',
 criaCartao('Segunda Guerra Mundial',
     
     
-    'Quais cidades foram atingidas por bombas atômicas?', 'Hiroshima e Nagasaki, no Japão, foram atingidas por bombas atômicas em agosto de 1945.)
+    'Quais cidades foram atingidas por bombas atômicas?', 'Hiroshima e Nagasaki, no Japão, foram atingidas por bombas atômicas em agosto de 1945.')
 
 
 
@@ -97,7 +98,7 @@ criaCartao('Guerra Fria',
 
 
 
-criaCartao('Guerra Fria',,
+criaCartao('Guerra Fria',
     
     
     'O que foi o Pacto de Varsóvia?', 'O Pacto de Varsóvia foi uma aliança militar liderada pela União Soviética, formada em 1955 como resposta à OTAN.')
@@ -133,14 +134,14 @@ criaCartao('Guerra Fria',
 criaCartao('Guerra Fria',
     
     
-    'Quando e como terminou a Guerra Fria?', 'A Guerra Fria terminou em 1991, com a dissolução da União Soviética e o colapso dos regimes comunistas no Leste Europeu.)
+    'Quando e como terminou a Guerra Fria?', 'A Guerra Fria terminou em 1991, com a dissolução da União Soviética e o colapso dos regimes comunistas no Leste Europeu.')
 
 
 
 criaCartao('Guerra Fria',
     
     
-    'O que foi a Perestroika?', 'A Perestroika foi uma série de reformas políticas e econômicas introduzidas por Mikhail Gorbachev na União Soviética na década de 1980.)
+    'O que foi a Perestroika?', 'A Perestroika foi uma série de reformas políticas e econômicas introduzidas por Mikhail Gorbachev na União Soviética na década de 1980.')
 
 
 
