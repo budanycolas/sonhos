@@ -101,8 +101,8 @@ footer {
 
 footer p {
     text-align: center;
-    font-size: 1rem;
-    margin-top: 1rem;
+    font-size: 2rem;
+    margin-top: 2rem;
 }
 
 @media (max-width: 560px) {
