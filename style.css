@@ -72,7 +72,7 @@ body {
 }
 
 .cartao.active .cartao__conteudo {
-    transform: rotateY(180deg);
+    transform: rotateX(180deg);
 }
 
 .cartao__conteudo__pergunta,
